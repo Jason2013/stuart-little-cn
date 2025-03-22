@@ -6,7 +6,7 @@ project = '精灵鼠小弟'
 copyright = '2025, 上海译文出版社'
 author = '【美】E・B・怀特'
 
-release = '0.1'
+release = '0.1.0'
 version = '0.1.0'
 
 # -- General configuration
