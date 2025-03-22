@@ -33,3 +33,11 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "Jason2013", # Username
+    "github_repo": "stuart-little-cn", # Repo name
+    "github_version": "main", # Version
+    "conf_py_path": "/docs/source/", # Path in the checkout to the docs root
+}
