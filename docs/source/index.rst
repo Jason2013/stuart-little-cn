@@ -6,6 +6,10 @@
 .. toctree::
 
    00_interpreter_words
+
+.. toctree::
+   :numbered:
+
    01
    02
    03
